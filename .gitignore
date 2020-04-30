@@ -1,0 +1,10 @@
+#remove default files
+.idea
+.gradle
+build.gradle
+gradlew.bat
+settings.gradle
+gradle
+gradlew
+build
+
